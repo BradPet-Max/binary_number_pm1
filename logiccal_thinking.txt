@@ -2,14 +2,14 @@
 To covert we divide the number by two and the remainders will form our binary
 
 234 /2 repeatedly
-234/2 - 117 remainder 0
-117/2 - 58 remainder 1
-58/2 - 29 remainder 0
-29/2 - 14 remainder 1
-14/2 -7 remainder 0
-7 /2- 3 remainder 1
-3/2  - 1 remainder 1
-1/ 2 - 0 remainder 1
+234/2 = 117 remainder 0
+117/2 -=58 remainder 1
+58/2 = 29 remainder 0
+29/2 = 14 remainder 1
+14/2 =7 remainder 0
+7 /2 = 3 remainder 1
+3/2  = 1 remainder 1
+1/ 2 = 0 remainder 1
 
 Our binary will be 11101010 base 2 
 234 in base 10 = 11101010 base 2
